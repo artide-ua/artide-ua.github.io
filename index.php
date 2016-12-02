@@ -9,10 +9,3 @@
 </div>
 </body>
 </html>
-
-<?php
-
-echo date("m.d.y")
- 
-
-?>
